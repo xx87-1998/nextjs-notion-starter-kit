@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '87-xx-68c3846ca5f14b03a6cf02876a520815',
+  rootNotionPageId: '87-68c3846ca5f14b03a6cf02876a520815',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '87 xx',
-  domain: 'https://www.notion.so/87-xx-68c3846ca5f14b03a6cf02876a520815t',
+  name: '第87話',
+  domain: 'https://www.notion.so/87-68c3846ca5f14b03a6cf02876a520815',
   author: 'xx',
 
   // open graph metadata (optional)
